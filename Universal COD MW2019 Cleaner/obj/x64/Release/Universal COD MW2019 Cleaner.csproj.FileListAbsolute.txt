@@ -1,0 +1,6 @@
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\bin\x64\Release\Universal COD MW2019 Cleaner.exe.config
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\bin\x64\Release\Universal COD MW2019 Cleaner.exe
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\bin\x64\Release\Universal COD MW2019 Cleaner.pdb
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\obj\x64\Release\Universal COD MW2019 Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\obj\x64\Release\Universal COD MW2019 Cleaner.exe
+C:\Users\diesi\source\repos\Universal COD MW2019 Cleaner\Universal COD MW2019 Cleaner\obj\x64\Release\Universal COD MW2019 Cleaner.pdb
